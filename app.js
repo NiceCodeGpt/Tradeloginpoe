@@ -1,5 +1,5 @@
 // ВАЖНО: ваш Apps Script Web App URL (именно /exec)
-const API_BASE = "https://script.google.com/macros/s/AKfycbxSo6QJhE2kAU82HgkmuyR1yj_V-IcNLuW6x1qKs2Z7z-6K37vkBrxXyfTyovQNYRz5kA/exec";
+const API_BASE = "https://script.google.com/macros/s/AKfycbyLTvVXYNZ2UX4VpH9teQHWEG7wnxygFIyIznR3cTmXY-flzYetHF82Rrhffsquwu5erg/exec";
 
 // DOM
 const statusEl = document.getElementById("status");
